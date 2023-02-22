@@ -75,5 +75,6 @@
 - [`Loli Killer`]()
 - [`Rynz`]()
 - [`Creative Team`]()
+- [`David (xct007)`]()
 - [`Danzzcoding`]()
 - [`ZeeoneOfc`]()
